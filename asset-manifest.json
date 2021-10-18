@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.bc7a978d.chunk.css",
-    "main.js": "/static/js/main.8b1a1dd2.chunk.js",
-    "main.js.map": "/static/js/main.8b1a1dd2.chunk.js.map",
+    "main.js": "/static/js/main.1e7d9f19.chunk.js",
+    "main.js.map": "/static/js/main.1e7d9f19.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.87776048.js",
     "runtime-main.js.map": "/static/js/runtime-main.87776048.js.map",
     "static/js/2.3b6f3fd0.chunk.js": "/static/js/2.3b6f3fd0.chunk.js",
@@ -16,13 +16,15 @@
     "static/media/flyfrog.86ab4d81.png": "/static/media/flyfrog.86ab4d81.png",
     "static/media/jigglyjams.46cbc1bd.png": "/static/media/jigglyjams.46cbc1bd.png",
     "static/media/mollcule.634ae8d1.png": "/static/media/mollcule.634ae8d1.png",
+    "static/media/pond.c28d461c.png": "/static/media/pond.c28d461c.png",
     "static/media/rizzle.62ac5e12.png": "/static/media/rizzle.62ac5e12.png",
-    "static/media/tadpoleon.22ee3996.png": "/static/media/tadpoleon.22ee3996.png"
+    "static/media/tadpoleon.22ee3996.png": "/static/media/tadpoleon.22ee3996.png",
+    "static/media/tadpoles.4579034b.jpg": "/static/media/tadpoles.4579034b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.87776048.js",
     "static/js/2.3b6f3fd0.chunk.js",
     "static/css/main.bc7a978d.chunk.css",
-    "static/js/main.8b1a1dd2.chunk.js"
+    "static/js/main.1e7d9f19.chunk.js"
   ]
 }
