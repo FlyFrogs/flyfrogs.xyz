@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.47cb3486.chunk.css",
-    "main.js": "/static/js/main.4f2257c0.chunk.js",
-    "main.js.map": "/static/js/main.4f2257c0.chunk.js.map",
+    "main.js": "/static/js/main.eb041bbe.chunk.js",
+    "main.js.map": "/static/js/main.eb041bbe.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cacbc935.js",
     "runtime-main.js.map": "/static/js/runtime-main.cacbc935.js.map",
     "static/js/2.f6e1df2e.chunk.js": "/static/js/2.f6e1df2e.chunk.js",
@@ -13,10 +13,10 @@
     "static/css/main.47cb3486.chunk.css.map": "/static/css/main.47cb3486.chunk.css.map",
     "static/js/2.f6e1df2e.chunk.js.LICENSE.txt": "/static/js/2.f6e1df2e.chunk.js.LICENSE.txt",
     "static/media/burger.f991476d.png": "/static/media/burger.f991476d.png",
+    "static/media/cool_hoodie.94c90c2d.png": "/static/media/cool_hoodie.94c90c2d.png",
     "static/media/flyfrog.86ab4d81.png": "/static/media/flyfrog.86ab4d81.png",
     "static/media/jigglyjams.46cbc1bd.png": "/static/media/jigglyjams.46cbc1bd.png",
     "static/media/mollcule.634ae8d1.png": "/static/media/mollcule.634ae8d1.png",
-    "static/media/pond.c28d461c.png": "/static/media/pond.c28d461c.png",
     "static/media/rizzle.62ac5e12.png": "/static/media/rizzle.62ac5e12.png",
     "static/media/tadpoleon.22ee3996.png": "/static/media/tadpoleon.22ee3996.png",
     "static/media/tadpoles.4579034b.jpg": "/static/media/tadpoles.4579034b.jpg"
@@ -25,6 +25,6 @@
     "static/js/runtime-main.cacbc935.js",
     "static/js/2.f6e1df2e.chunk.js",
     "static/css/main.47cb3486.chunk.css",
-    "static/js/main.4f2257c0.chunk.js"
+    "static/js/main.eb041bbe.chunk.js"
   ]
 }
